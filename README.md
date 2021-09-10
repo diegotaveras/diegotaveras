@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @diegotaveras, studying Computer Science as a freshman from Puerto Rico at UIUC!
-- 👀 I’m interested in ML, programming challenges, cybersecurity, and just learning about coding.
+- 👀 I’m interested in programming challenges, cybersecurity, ML and just learning about coding.
 - 🌱 I’m currently learning Kotlin, though I know a bit of Python and Java.
 - 💞️ I’m looking to collaborate on anything that helps me learn more about code.
 - 📫 How to reach me: personal email - taverasd1003@gmail.com;
