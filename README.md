@@ -1,7 +1,7 @@
 -  Hi, I’m @diegotaveras, a Puertorican studying Computer Science at UIUC!
 -  I’m interested in cybersecurity, ML and web design.
 -  I’m looking to collaborate on anything that helps me learn more about coding.
--  How to reach me: personal email - taverasd1003@gmail.com;
+-  How to reach me: personal email - diegoat2@illinois.edu;
                                   
 
 <!---
