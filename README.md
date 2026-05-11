@@ -1,6 +1,6 @@
 -  Hi, I’m @diegotaveras, a Puerto Rican studying Computer Science at UIUC!
--  I’m interested in full-stack development, cybersecurity and ML.
--  I’m open to internship opportunities or interesting projects to collaborate on.
+-  I’m interested in ML systems, AI, and software engineering.
+-  Always open to cool projects and opportunities
 -  How to reach me: diegoat2@illinois.edu
                                   
 
